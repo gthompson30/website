@@ -69,3 +69,4 @@ $('body').terminal({
 }, {
     greetings: 'GabrielOS [Version 12.27.05]\n&#127279; 2021 GABE.BIZ. Rights not really reserved.\nPsst... try running "ls"'
 });
+*/
